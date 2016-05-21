@@ -4,3 +4,5 @@
 - The dependent variable (IsBadBuy) is binary (C2)
 - There are 32 Independent variables (C3-C34)
 - The data set is split to 60% training and 40% testing.
+
+https://www.kaggle.com/c/DontGetKicked/leaderboard?submissionId=3053415
